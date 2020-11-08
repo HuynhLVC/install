@@ -33,3 +33,5 @@ os.system("sudo chmod +x /home/pi/Desktop/Calendar.Desktop")
 
 os.system("sudo apt-get install unclutter")
 os.system("sudo rm -r /home/pi/ui")
+os.system("sudo rm -r /home/pi/Downloads/install")
+
