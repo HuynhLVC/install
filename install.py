@@ -28,6 +28,8 @@ os.system("sudo mv /home/pi/ui/time.png /usr/icon")
 os.system("sudo mv /home/pi/ui/url.png /usr/icon")
 os.system("sudo mv /home/pi/ui/whiteWifi.png /usr/icon")
 os.system("sudo mv /home/pi/ui/wifi.png /usr/icon")
+os.system("sudo mv /home/pi/ui/minimize.png /usr/icon")
+os.system("sudo mv /home/pi/ui/maximize.png /usr/icon")
 
 fin = open("/home/pi/Desktop/Calendar.Desktop", "wt")
 fin.write('''[Desktop Entry]
